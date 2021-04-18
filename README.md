@@ -13,3 +13,10 @@ This is a simple ReactJS project that uses a public API from [Weather Stack](htt
 The usage is very simple, you write down a valid name of a city, country, etc. And then the app will show you how the weather is doing in the written area.
 
 Link to the app: [Weather App | By Mina Nicola](http://minanicola-weather-app.surge.sh/)
+
+
+## 2. Covid-19 Tracker
+
+This is a ReactJS project that uses a public API from [Covid-19 API](https://coronavirus-19-api.herokuapp.com/) that gives us free access on the statistics of Covid-19 virus.
+
+Link to the app: [Covid-19 Tracker | By Mina Nicola](https://objective-wing-b52c4e.netlify.app/)
