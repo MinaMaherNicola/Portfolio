@@ -2,7 +2,7 @@
 
 This is my front-end portfolio to showcase my skills as a front-end software engineer.
 
-My main skill set consists of: HTML, CSS, SASS, JavaScript, ReactJS, Algorithms & DataStructures
+My main skill set consists of: HTML, CSS, Sass, JavaScript, ReactJS, Redux, Redux-Thunk, Context, and Algorithms & DataStructures
 
 Some additional skill set that does not relate to front end engineering: Python, C#, MongoDB, FLask
 
@@ -14,9 +14,8 @@ The usage is very simple, you write down a valid name of a city, country, etc. A
 
 Link to the app: [Weather App | By Mina Nicola](http://minanicola-weather-app.surge.sh/)
 
-
 ## 2. Covid-19 Tracker
 
 This is a ReactJS project that uses a public API from [Covid-19 API](https://coronavirus-19-api.herokuapp.com/) that gives us free access on the statistics of Covid-19 virus.
 
-Link to the app: [Covid-19 Tracker | By Mina Nicola](https://objective-wing-b52c4e.netlify.app/)
+Link to the app: [Covid-19 Tracker | By Mina Nicola](https://covid-19-mina-nicola.netlify.app/)
