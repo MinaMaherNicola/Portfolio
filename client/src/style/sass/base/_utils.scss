@@ -1,0 +1,26 @@
+.neon-text-effect {
+  font-family: 'Vibur', cursive;
+  text-shadow: 0 -40px 100px, 0 0 2px, 0 0 1rem $color-bright-gold, 0 0 0.5rem $color-bright-gold,
+    0 0 0.1rem $color-bright-gold, 0 0.7rem 3px #000;
+  user-select: none;
+
+  .s-2 {
+    animation: blink 2s infinite;
+  }
+
+  .s-25 {
+    animation: blink 2.5s infinite;
+  }
+
+  .s-3 {
+    animation: blink 3s infinite;
+  }
+
+  .s-35 {
+    animation: blink 3.6s infinite;
+  }
+
+  .s-36 {
+    animation: blink 3.6s infinite;
+  }
+}
